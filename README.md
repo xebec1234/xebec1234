@@ -164,7 +164,5 @@ A partner-based mobile savings app with shared goal-setting, auto-broken-down we
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8300FF,100:A855F7&height=100&section=footer" width="100%"/>
 
-📅 Contribution Board
-<div align="center"> <img src="https://ghchart.rshah.org/8300FF/xebec1234" alt="Manuel's GitHub Contribution Chart" width="100%"/> </div> <br/>
 🐍 My Contributions
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xebec1234/xebec1234/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xebec1234/xebec1234/output/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xebec1234/xebec1234/output/github-contribution-grid-snake.svg" width="100%"/> </picture> </div> <br/>
