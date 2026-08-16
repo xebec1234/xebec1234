@@ -137,10 +137,10 @@ A partner-based mobile savings app with shared goal-setting, auto-broken-down we
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=xebec1234&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8300FF&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xebec1234&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" />
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xebec1234&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=8300FF&currStreakLabel=A855F7" />
