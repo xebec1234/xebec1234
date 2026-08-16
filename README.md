@@ -102,12 +102,12 @@ Built an email/report automation tool that classifies faulty data into report ty
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ .exe Files
-**Academic Thesis Project** · Dec 2025 – May 2026
+### 🛰️ Java Condition Monitoring
+**Full-Stack Platform** · Jan 2025 – Jan 2026
 
-An Android cybersecurity awareness game simulating border-control style file inspection, powered by a **machine learning decision-tree classifier** to teach players real-time threat detection.
+A condition monitoring & industrial inspection platform with dashboards, machine tracking, and automated PDF/DOC report generation from predefined templates — built end-to-end from schema to UI.
 
-`Godot 4.4.1` `GDScript` `Python` — Agile (Scrum)
+`Vite` `TypeScript` `Tailwind` `Express` `Prisma` `PostgreSQL` `AWS` — Agile
 
 </td>
 <td width="50%" valign="top">
@@ -138,15 +138,13 @@ A partner-based mobile savings app with shared goal-setting, auto-broken-down we
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8300FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xebec123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8300FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xebec123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=8300FF&currStreakLabel=A855F7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xebec1234&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=8300FF&currStreakLabel=A855F7" />
 </div>
-
-> ℹ️ Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these live stat cards.
 
 <br/>
 
@@ -155,12 +153,12 @@ A partner-based mobile savings app with shared goal-setting, auto-broken-down we
 <div align="center">
 
 <a href="https://mnlbytes.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-A855F7?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/manuel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/manuel-jose-pera-896894339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pera.manueljose.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=xebec1234&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
