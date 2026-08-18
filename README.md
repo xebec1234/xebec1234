@@ -8,7 +8,9 @@
 
 <br/>
 
-<a href="https://mnl-bytes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mnlbytes.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://mnl-bytes.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-mnl--bytes.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/manuel-jose-pera-896894339"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pera.manueljose.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-8300FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
